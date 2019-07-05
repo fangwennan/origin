@@ -1,0 +1,12 @@
+diff --git a/hello.java b/hello.java
+index 8b2bb47..de2dc80 100644
+--- a/hello.java
++++ b/hello.java
+@@ -1,5 +1,6 @@
+ public class Hello{
+ 	public static void main(String[] args){
+ 		System.out.println("hello git");
++		System.out.println("补丁");
+ 	}
+ }
+\ No newline at end of file
